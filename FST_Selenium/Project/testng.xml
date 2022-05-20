@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="FST_java">
+    <test name="testngTest">
+        <classes>
+            <class name="Project.Activity1" />
+            <class name="Project.Activity3" />
+            <class name="Project.Activity4" />
+            <class name="Project.Activity5" />     
+            <class name="Project.Activity7" />
+            <class name="Project.Activity8" />
+            <class name="Project.Activity9" />
+
+
+
+
+        </classes>
+    </test>
+</suite>
